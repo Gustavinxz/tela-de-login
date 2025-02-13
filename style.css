@@ -15,6 +15,7 @@ font-family: Arial, Helvetica, sans-serif;
     box-shadow: 0 4px 10px whitesmoke;
     display: grid;
     gap: 16px;
+    margin: 10px;
 }
 form{
     display: grid;
